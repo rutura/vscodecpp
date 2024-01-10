@@ -1,0 +1,13 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "build\\windows-base"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\build"
+  ],
+  "SelectedNode": "\\main.cpp",
+  "PreviewInSolutionExplorer": false
+}
