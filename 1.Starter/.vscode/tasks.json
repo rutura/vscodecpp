@@ -3,7 +3,7 @@
 	"tasks": [
 		{
 			"type": "cppbuild",
-			"label": "Build with g++",
+			"label": "Build with g++ MinGw - Windows",
 			"command": "C:\\mingw64\\bin\\g++.exe",
 			"args": [
 				"-fdiagnostics-color=always",
@@ -23,7 +23,7 @@
 		},
 		{
 			"type": "cppbuild",
-			"label": "Build with Visual C++ cl.exe",
+			"label": "Build with Visual C++ cl.exe - Windows",
 			"command": "cl.exe",
 			"args": [
 				"/Zi",
@@ -40,6 +40,46 @@
 			],
 			"group": "build",
 			"detail": "compiler: cl.exe"
+		},
+		{
+			"type": "cppbuild",
+			"label": "Build with g++ - Linux",
+			"command": "/usr/bin/g++",
+			"args": [
+				"-fdiagnostics-color=always",
+				"-g",
+				"${workspaceFolder}/*.cpp",
+				"-o",
+				"${fileDirname}/rooster.exe"
+			],
+			"options": {
+				"cwd": "${fileDirname}"
+			},
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": "build",
+			"detail": "compiler: /usr/bin/g++"
+		},
+		{
+			"type": "cppbuild",
+			"label": "Build with clang++-17 - Linux",
+			"command": "/usr/bin/clang++-17",
+			"args": [
+				"-fdiagnostics-color=always",
+				"-g",
+				"${workspaceFolder}/*.cpp",
+				"-o",
+				"${fileDirname}/rooster.exe"
+			],
+			"options": {
+				"cwd": "${fileDirname}"
+			},
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": "build",
+			"detail": "compiler: /usr/bin/clang++-17"
 		}
 	]
 }
