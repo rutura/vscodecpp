@@ -64,7 +64,7 @@
         "inherits": "base",
         "cacheVariables": {
           "CMAKE_BUILD_TYPE": "Debug",
-          "CMAKE_CXX_COMPILER": "g++"
+          "CMAKE_CXX_COMPILER": "clang++-17"
         },
         "vendor": {
           "microsoft.com/VisualStudioSettings/CMake/1.0": {
