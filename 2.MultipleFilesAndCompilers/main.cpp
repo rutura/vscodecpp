@@ -23,4 +23,5 @@ int main()
     std::cout << std::endl;
     Person p;
     p.eat();
+    auto result = (10 <=>20);
 }
