@@ -21,5 +21,6 @@ int main()
 
     fmt::println("The value is: {}", value);
     fmt::println("The sky is blue my friend!");
+    fmt::println("How are you my friend!");
     return 0;
 }
