@@ -1,0 +1,28 @@
+<mxfile host="Electron" modified="2024-01-15T16:03:05.549Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="WbhL_knsixwO5If8pl7w" version="21.2.8" type="device">
+  <diagram name="Page-1" id="ANXfvSvX2fvnIMbQFfZt">
+    <mxGraphModel dx="1418" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#999999" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="coQgBlBkfaDsPRVSCjmO-1" value="VS Code with tasks" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="470" y="220" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="coQgBlBkfaDsPRVSCjmO-2" value="CMake with Presets" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="470" y="540" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="coQgBlBkfaDsPRVSCjmO-3" value="CMake with Kits" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="470" y="380" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="coQgBlBkfaDsPRVSCjmO-4" value="CMake Presets with C++20 Modules" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="470" y="670" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="coQgBlBkfaDsPRVSCjmO-5" value="Windows" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="830" y="170" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="coQgBlBkfaDsPRVSCjmO-6" value="Linux" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="830" y="270" width="270" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
