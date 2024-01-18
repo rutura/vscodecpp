@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-01-15T17:09:14.094Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="g4jgZHqwc-Ak_CRVeJMS" version="21.2.8" type="device">
+<mxfile host="Electron" modified="2024-01-17T07:20:22.974Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="R66kWP-5sV3xckw8dypF" version="21.2.8" type="device">
   <diagram name="Page-1" id="yIDWRV6hPl0K5xTMbdkP">
     <mxGraphModel dx="1418" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#999999" math="0" shadow="0">
       <root>
@@ -10,16 +10,13 @@
         <mxCell id="D3NFLAu3o3HW8XcyuW8i-1" value="CMake" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="770" y="340" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D3NFLAu3o3HW8XcyuW8i-2" value="CMake" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="770" y="420" width="240" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="D3NFLAu3o3HW8XcyuW8i-3" value="MSVC" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="D3NFLAu3o3HW8XcyuW8i-3" value="MSVC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="390" y="300" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D3NFLAu3o3HW8XcyuW8i-4" value="GCC" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="D3NFLAu3o3HW8XcyuW8i-4" value="GCC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="390" y="380" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D3NFLAu3o3HW8XcyuW8i-5" value="CLANG" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="D3NFLAu3o3HW8XcyuW8i-5" value="CLANG" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="390" y="460" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D3NFLAu3o3HW8XcyuW8i-6" value="VS Code" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">

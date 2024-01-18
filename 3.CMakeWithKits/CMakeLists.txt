@@ -14,5 +14,5 @@ FetchContent_Declare(
 
 FetchContent_MakeAvailable(fmt)
 
-add_executable(Rooster main.cpp)
+add_executable(Rooster main.cpp person.cpp)
 target_link_libraries(Rooster PRIVATE fmt::fmt)
