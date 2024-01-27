@@ -1,6 +1,8 @@
 /*
     . Using cmake presets with c++20 modules
     . On windows with visual studio, be sure to explicitly use the visual studio generator.
+    . Reference: 
+        . Install ninja 1.11 on ubuntu: https://lindevs.com/install-ninja-build-system-on-ubuntu
     . Pros:
         . Easy to set up a debugger.
         . Relatively easy to bring in third party dependencies through FetchContent. 
